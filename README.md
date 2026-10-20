@@ -1,29 +1,79 @@
-# Blenda Saragena — Responsive Portfolio
+Blenda Saragena — Developer Portfolio
 
-A responsive, static portfolio website built with HTML, CSS, and JavaScript. It can be hosted using GitHub Pages.
+Welcome to my developer portfolio! This website showcases my web development skills and practical projects, including business management systems, ordering applications, and responsive websites.
 
-## Files
-- `index.html` — portfolio content and project cards
-- `styles.css` — responsive layout and visual design
-- `script.js` — mobile navigation and current year
+I build practical, user-friendly digital solutions with a focus on responsive design, functionality, and real-world business needs.
 
-## Publish with GitHub Pages
-1. Create a new public GitHub repository, for example `blenda-portfolio`.
-2. Upload these three files plus this README to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/(root)`, then save.
-6. Wait for GitHub Pages to publish the site. Your URL will look like https://blen93.github.io/blenda-portfolio/?utm_source=chatgpt.com.
+🌐 Live Portfolio
 
-## Before publishing
-- The Jeyo's Gym live demo and GitHub repository links are already set.
-- Replace the placeholder project information and add the actual live demo URL for JB Coffee Shop Kiosk.
-- Replace “Project Three” with your third system's name and working URL.
-- The Patchy Burger is marked as coming soon until its files are ready.
-- Update the GitHub profile link in the Contact section if your profile URL changes.
+Visit my portfolio:
+https://blen93.github.io/blenda-portfolio/
 
-This portfolio is a static front-end site. Project demos that require a backend must be hosted separately; the portfolio links open those demos in a new tab.
+🚀 Featured Projects
 
+1. Jeyo’s Gym Management System
 
-## Profile photo
-The About section uses `blenda-profile.jpg`. Keep this image in the same repository folder as `index.html`, `styles.css`, and `script.js` when uploading to GitHub.
+A gym management and attendance tracking application designed to simplify daily gym operations. Features include member registration, membership renewals, QR/barcode check-in, attendance tracking, and an SQLite database.
+
+Technologies: HTML, CSS, JavaScript, Java, SQLite, Android
+
+Live Demo: https://jeyos-gym-demo.onrender.com/
+
+2. JB Coffee Shop Kiosk
+
+A responsive self-service coffee ordering system designed for touchscreen computers and Android tablets. It features a digital menu, shopping cart, order management, payment selection, and a staff dashboard.
+
+Technologies: HTML, CSS, JavaScript, Responsive Web Design
+
+Live Demo: Available through the portfolio project link.
+
+3. The Patchy Burger
+
+A responsive restaurant website featuring an interactive menu, product categories, a shopping cart, and a modern interface optimized for mobile and desktop users.
+
+Technologies: HTML, CSS, JavaScript, Responsive Web Design
+
+Live Website: https://blen93.github.io/the-patchy-burger/
+
+🛠️ Skills & Technologies
+
+- Frontend Development: HTML5, CSS3, JavaScript
+- Backend Development: PHP, Laravel
+- Databases: SQLite and MySQL
+- Mobile Applications: Android app packaging and web-to-APK integration
+- Tools & Platforms: GitHub, GitHub Pages, Render, Acode
+- Web Design: Responsive layouts, mobile-friendly interfaces, and user-focused design
+
+📁 Project Structure
+
+The portfolio is a static website built with:
+
+- "index.html" — portfolio content, sections, and project cards
+- "styles.css" — layout, styling, and responsive design
+- "script.js" — interactive functionality, mobile navigation, and current-year display
+- "blenda-profile.jpg" — profile photo
+- Project preview images — screenshots displayed on project cards
+
+📱 Responsive Design
+
+The portfolio is designed to work across mobile phones, tablets, and desktop computers.
+
+🚀 Hosting & Deployment
+
+The portfolio is hosted using GitHub Pages. Individual projects may be hosted separately depending on their technical requirements. Applications that require a backend or database must have their own compatible hosting or runtime environment.
+
+👩‍💻 About Me
+
+I am a developer who enjoys building practical systems and digital experiences that help businesses improve their daily operations. Through my projects, I continue developing my skills in web development, database integration, and application development.
+
+I welcome opportunities to collaborate on projects, develop business applications, and contribute to building useful digital solutions.
+
+📬 Contact
+
+Visit my portfolio to explore my projects and find my contact information.
+
+Portfolio: https://blen93.github.io/blenda-portfolio/
+
+---
+
+Thank you for visiting my portfolio and exploring my work.
